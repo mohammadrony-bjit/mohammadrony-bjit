@@ -19,7 +19,7 @@ As a DevOps Engineer with experience in Linux, CI/CD, Jenkins, Docker, AWS Cloud
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top">
 
 - 🔭 I’m currently working on [Github Profile](https://github.com/mohammadrony-bjit)  
   
@@ -28,11 +28,6 @@ As a DevOps Engineer with experience in Linux, CI/CD, Jenkins, Docker, AWS Cloud
   
 
 - ❓ Ask me about anything related to DevOps and related technologies  
-
-
-</td><td valign="top" width="50%">
-
-![]()  
 
 
 </td></tr></table>  
