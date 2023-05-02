@@ -24,11 +24,26 @@ As a DevOps Engineer with experience in Linux, CI/CD, Jenkins, Docker, AWS Cloud
 - 🔭 I’m currently working on my [Github Profile](https://github.com/mohammadrony-bjit).
 
 
-- 🌱 I’m currently learning CI/CD and Configuration management.
+- 🌱 I’m currently learning CI/CD, AWS Cloud, and Containerization technology.
 
-
+- 💻 In my free time, I enjoy working on personal coding projects and contributing to open-source software communities.
 - ❓ Ask me about anything related to DevOps and related technologies.
 
+🚀 I'm always looking for new opportunities to learn and contribute to open-source software communities. Feel free to check out my projects and connect with me on LinkedIn or Twitter!
+
+## Projects
+
+### [Emarket](https://github.com/mohammadrony/emarket) [Vue.js and Node.js]
+An e-commerce web application with a Vue.js frontend with Vuex state management, Stripe payment gateway and a Node.js backend with a MySQL database. 
+
+### [Smart-Diary](https://github.com/mohammadrony/smart-diary)  [Flutter and Node.js]
+App for taking notes and managing tasks for teachers and students with the ability to add/edit diary entries. Using Flutter with the Getx framework in the frontend and Node.js's backend server with Typescript and the MongoDB database.
+
+
+## Education and Hometown
+- BSc in Computer Science and Engineering from **Khulna University**.
+- HSC from **Govt. Science College**.
+- Manikganj.
 
 </td></tr></table>
 
