@@ -39,13 +39,13 @@ As a DevOps Engineer with experience in Linux, CI/CD, Jenkins, Docker, AWS Cloud
 An e-commerce web application with a Vue.js frontend with Vuex state management, Stripe payment gateway and a Node.js backend with a MySQL database. 
 
 ### [Smart-Diary](https://github.com/mohammadrony/smart-diary)  [Flutter and Node.js]
-App for taking notes and managing tasks for teachers and students with the ability to add/edit diary entries. Using Flutter with the Getx framework in the frontend and Node.js's backend server with Typescript and the MongoDB database.
+App for taking notes and managing tasks for teachers and students with the ability to add/edit task for selected course. Using Flutter with the Getx framework in the frontend and Node.js's backend server with Typescript and the MongoDB database.
 
 
 ## Education and Hometown
 - BSc in Computer Science and Engineering from **Khulna University**.
 - HSC from **Govt. Science College**.
-- Manikganj.
+- Hometown **Manikganj, Dhaka**.
 
 
 <br/>
